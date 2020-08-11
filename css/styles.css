@@ -1,0 +1,180 @@
+a:hover {
+  font-size: 20px;
+}
+
+body {
+  margin: 0 auto 0 auto;
+  text-align: center;
+}
+
+h1 {
+  color: #4fb19a;
+  margin: 50px auto 0 auto;
+  font-family: snell roundhand, sans-serif;
+  font-size: 4.5rem;
+}
+
+h2 {
+  font-family: lucida grande, arial, sans-serif;
+  font-size: 2.5rem;
+  color: #25836c;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: andale mono, arial, sans-serif;
+  font-size: 1.5rem;
+  color: #48b29a;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #f3f2f1;
+  border-width: 8px;
+  width: 5%;
+  margin: 70px auto;
+}
+
+p {
+  font-size: 1.4rem;
+  font-family: adobe garamond pro, serif;
+  color: #545454;
+}
+
+
+.top-container {
+  background-color: #e0ebe8;
+  width: 100%;
+  padding-top: 150px;
+  position: relative;
+}
+
+.middle-container {
+  background-color: #ffffff;
+  width: 100%;
+  margin-top: 100px;
+  line-height: 1.4;
+}
+
+.bottom-container {
+  background-color: #c6ded7;
+  width: 100%;
+  height: 200px;
+}
+
+.btn {
+  position: relative;
+  text-decoration: none;
+  padding: 15px;
+  top: 30px;
+  bottom: 20px;
+  background-color: #45b29a;
+  color: #ffffff;
+  font-size: 1.2rem;
+  cursor: pointer;
+  font-family: lucida grande, arial, sans-serif;
+  border-radius: 30px;
+}
+
+.btn:hover {
+  background-color: #2bc4ad;
+}
+
+.cloud1 {
+  position: absolute;
+  right: 260px;
+  top: 220px;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 300px;
+}
+
+.contact-button {
+  position: relative;
+  background-color: #ffffff;
+  height: 100px;
+  margin: 30px auto 70px;
+}
+
+.copy-right {
+  position: relative;
+  top: 50px;
+  padding: 30px auto 0;
+  color: #25836c;
+  margin-top: 30px;
+}
+
+.fa-envelope {
+  margin-right: 5px;
+}
+
+.fa-linkedin {
+  color: #1074ae;
+}
+
+.fa-twitter-square {
+  color: #1ba4f0;
+}
+
+.fa-globe {
+  color: #495057;
+}
+
+.fa-instagram-square {
+  color: #d42f7c;
+}
+
+
+
+.footer-link {
+  position: relative;
+  top: 50px;
+  text-decoration: none;
+  padding: 20px 50px;
+  margin: 30px auto;
+  font-family: letter gothic std, serif;
+  font-size: 1.1rem;
+  color: #25836c;
+}
+
+.intro {
+  width: 40%;
+  margin: auto;
+}
+
+.mountain {
+  position: relative;
+  margin-bottom: 0;
+}
+
+.profile-picture {
+  height: 150px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 1.4;
+}
+
+.sub-heading {
+  color: #4bb29a;
+  font-family: courier new, sans-serif;
+  font-size: 1.56rem;
+  font-weight: normal;
+  margin: 0 auto 0 auto;
+}
+
+.web-development {
+  float: left;
+  margin: 20px 100px 0 0;
+}
+
+.web-hosting {
+  float: right;
+  margin: 20px 0 0 100px;
+}
